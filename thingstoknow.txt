@@ -1,0 +1,5 @@
+site for reqbin: https://reqbin.com/
+
+Use library pytests to do the extra credit
+
+To parse XML have to import xml,etree (Look this up) A good site woukd be te geeksforgeeks xml-parsing-python
